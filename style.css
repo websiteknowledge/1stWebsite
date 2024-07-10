@@ -60,9 +60,26 @@ h1 {
   color: black;
 }
 
-video {
-  width: 100%;
+.video-1 {
+ text-align: end;
 }
+
+.video-2 {
+ text-align: end;
+}
+
+.video-3 {
+ text-align: left;
+ margin-top: -680px;
+}
+
+.video-4 {
+ text-align: left;
+}
+
+
+
+ 
 
 
 
